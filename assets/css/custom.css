@@ -2,9 +2,9 @@ body {
   color: 86df63;
   }
 
-.page-header { 
+header { 
   
-  background-image: url("/assets/images/images.md/GreenBackground.jpg");
+  background-image: url("/emmamhogan-demo.github.io/assets/images/GreenBackground.jpg");
   background-size: cover;
   
 }
