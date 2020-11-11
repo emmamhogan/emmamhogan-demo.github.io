@@ -2,7 +2,7 @@ body {
   color: purple;
   }
 
-header { 
+.page-header { 
   
   background-image: url("/emmamhogan.github.io/assets/images/bricks.png");
   background-size: cover;
