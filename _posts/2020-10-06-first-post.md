@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post
+title: Fast Facts
 ---
 
 This is my **first post**.
