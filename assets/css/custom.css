@@ -1,8 +1,8 @@
 body {
-  color: lavender;
+  color: salmon;
   }
 
 .page-header { 
-  background-image: url("/assets/images/bricks.png/");
+  background-image: url("/assets/images/bricks.png");
   background-size: cover;
 }
