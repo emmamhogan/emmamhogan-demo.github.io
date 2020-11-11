@@ -2,8 +2,7 @@ body {
   color: purple;
   }
 
-header {
-  background-color: teal; 
+header { 
   background-image: url("/assets/images/bricks.png");
   background-size: cover;
 }
