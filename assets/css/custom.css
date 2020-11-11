@@ -4,5 +4,6 @@ body {
 
 header {
   background-color: teal; 
-  background-image: none;
+  background-image: url("/assets/images/bricks.png");
+  background-size: cover;
 }
