@@ -14,6 +14,7 @@ Clothing production is the 3rd biggest manufacturing industry behind auto and te
 Globally, 107 billion units of clothing and 14.5 billion pairs of shoes were purchased 
 
 Environment
+
 More than 60% of clothing material does not decay 
 85% of clothing in the U.S. goes in landfills or is incinerated 
 Clothing in landfills produces methane emissions
@@ -36,4 +37,4 @@ Fashion Nova, Boohoo, Revolve, Pretty Little Thing, and Forever 21 score less th
 68% of fashion brands don’t have gender equality policies 
 
 
-[Here's a website I like](https://goodonyou.eco/)
+
