@@ -3,8 +3,6 @@ layout: post
 title: Fast Facts
 ---
 
-This is my **first post**.
-
 Fast Facts 
 The fashion industry makes $2.4 trillion a year
 Clothing production is the 3rd biggest manufacturing industry behind auto and technology
