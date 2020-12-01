@@ -1,0 +1,22 @@
+---
+layout: default
+
+---
+<div class="posts">
+  {% for post in site.posts %}
+  <article class="post">
+    
+    <h1> Why You Should Avoid Amazon </h1>
+    
+    
+    <div class="entry">
+    
+    Amazon takes away from small businesses that do not have the means to lower their prices as substantially. The low prices that customers can often find on Amazon,
+    and on many other fast fashion websites, is a result of worker exploitation, or not paying workers a living wage. Amazon is also guilty of utilizing excessive waste 
+    in shipping almost all of its product. They ship around 165 billion cardboard boxes a year which equates to 1 billion trees. 
+    
+    </div>
+</article>
+{% endfor %}
+</div>
+    
