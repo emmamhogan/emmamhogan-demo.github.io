@@ -1,8 +1,16 @@
 ---
-layout: post
-title: Fast Facts
----
+layout: default
 
+---
+<div class="posts">
+  {% for post in site.posts %}
+  <article class="post">
+    
+    <h1></a>Fast Fashion Facts</h1>
+    
+    
+    <div class="entry">
+     
 Fast Facts 
 
 The fashion industry makes $2.4 trillion a year
@@ -52,5 +60,8 @@ Fashion Nova, Boohoo, Revolve, Pretty Little Thing, and Forever 21 score less th
 
 68% of fashion brands don’t have gender equality policies 
 
-
+</div>
+</article>
+{% endfor %}
+</div>
 
