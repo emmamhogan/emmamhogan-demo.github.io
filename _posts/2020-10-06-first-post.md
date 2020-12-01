@@ -6,14 +6,13 @@ layout: default
   {% for post in site.posts %}
   <article class="post">
     
-    <h1></a>Fast Fashion Facts</h1>
+    <h1></a> Fast Fashion Facts </h1>
     
     
     <div class="entry">
-     
-Fast Facts 
+      
 
-The fashion industry makes $2.4 trillion a year
+The fashion industry makes $2.4 trillion a year/
 
 Clothing production is the 3rd biggest manufacturing industry behind auto and technology
 
