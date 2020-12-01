@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 
 ---
 <div class="posts">
@@ -14,9 +14,7 @@ layout: post
 
 The fashion industry makes $2.4 trillion a year
 
-
-
-Clothing production is the 3rd biggest manufacturing industry behind auto and technology
+Clothing production is the 3rd biggest manufacturing industry behind auto and technology  <shift>
 
 1 in 3 younger women consider clothing articles worn more than 3 times to be old 
 
